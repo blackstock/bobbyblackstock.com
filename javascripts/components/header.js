@@ -1,8 +1,3 @@
-React.render(
-  <navBar/>,
-  document.getElementById("mainNav")
-);
-
 var navBar = React.createClass({
   render: function() {
     return (
@@ -37,3 +32,8 @@ var navBar = React.createClass({
     )
   }
 });
+
+ReactDOM.render(
+  React.createElement(navBar),
+  document.getElementById('mainNav')
+);
