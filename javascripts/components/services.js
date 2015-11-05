@@ -28,10 +28,8 @@ var services = React.createClass({
 
                 <h3>HTML/CSS</h3>
 
-                <p className="text-muted">HTML, HyperText Markup Language, gives content structure
-                  and meaning by defining that content as, for example, headings, paragraphs, or
-                  images. CSS, or Cascading Style Sheets, is a presentation language created to
-                  style the appearance of content—using, for example, fonts or colors.</p>
+                <p className="text-muted"> HyperText Markup Language and CSS for presentation,
+                  style the appearance of web pages.</p>
               </div>
             </div>
             <div className="col-lg-3 col-md-6 text-center">
@@ -49,9 +47,7 @@ var services = React.createClass({
 
                 <h3>Accounting/Finance</h3>
 
-                <p className="text-muted"> Passed the Uniform Certified Public Accountant Examination and
-                  have met additional state education and experience requirements for membership in the
-                  respective professional accounting bodies and certification as a CPA.</p>
+                <p className="text-muted"> Certified Public Accountant in the state of Colorado.</p>
               </div>
             </div>
           </div>
