@@ -24,9 +24,6 @@ var navBar = React.createClass({
               <a className="page-scroll" href="#portfolio">Portfolio</a>
             </li>
             <li>
-              <a className="page-scroll" href="#portfolio">Resume</a>
-            </li>
-            <li>
               <a className="page-scroll" href="#contact">Contact</a>
             </li>
           </ul>

@@ -6,10 +6,9 @@ var about = React.createClass({
           <div className="col-lg-8 col-lg-offset-2 text-center">
             <h2 className="section-heading">We've got what you need!</h2>
             <hr className="light"/>
-            <p className="text-faded">Start Bootstrap has everything you need to get your new website up and running in
-              no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to
-              use. No strings attached!</p>
-            <a href="#" className="btn btn-default btn-xl">Get Started!</a>
+            <p className="text-faded">Hello and welcome! My name is Bobby and I'm a software developer, Certified Public Accountant (CPA), soon-to-be father, and
+            a self-proclaimed entrepreneur.</p>
+            <a href="#" className="btn btn-default btn-xl">About Me</a>
           </div>
         </div>
       </div>

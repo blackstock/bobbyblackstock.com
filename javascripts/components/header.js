@@ -3,11 +3,11 @@ var header = React.createClass({
     return (
       <div className="header-content">
         <div className="header-content-inner">
-          <h1>Your Favorite Source of Free Bootstrap Themes</h1>
+          <h1>Bobby Blackstock</h1>
           <hr/>
-          <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your
-            template and start going, no strings attached!</p>
-          <a href="#about" className="btn btn-primary btn-xl page-scroll">Find Out More</a>
+          <p>Hello and welcome! My name is Bobby and I'm a software developer, Certified Public Accountant (CPA), soon-to-be father, and
+            a self-proclaimed entrepreneur.</p>
+          <a href="#about" className="btn btn-primary btn-xl page-scroll">About Me</a>
         </div>
       </div>
     )
