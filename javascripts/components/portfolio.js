@@ -48,7 +48,7 @@ var portfolio = React.createClass({
                       Operations Manager
                     </div>
                     <div className="project-name">
-                      MG Stover & Co
+                      MG Stover and Company
                     </div>
                   </div>
                 </div>
@@ -57,7 +57,7 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/duck_duck_deal_logo.png" className="img-responsive" alt=""/>
+                <img src="img/portfolio/duck_duck_deal_image.jpg" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
