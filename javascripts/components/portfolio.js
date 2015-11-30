@@ -11,10 +11,10 @@ var portfolio = React.createClass({
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
                     <div className="project-category text-faded">
-                      Category
+                      Software Engineer
                     </div>
                     <div className="project-name">
-                      Project Name
+                      P2B Investors
                     </div>
                   </div>
                 </div>
@@ -23,15 +23,15 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/p2bi_logo.png" className="img-responsive" alt=""/>
+                <img src="img/portfolio/github_logo.png" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
                     <div className="project-category text-faded">
-                      Category
+                      Project Repository
                     </div>
                     <div className="project-name">
-                      Project Name
+                      GitHub
                     </div>
                   </div>
                 </div>
@@ -40,15 +40,15 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/p2bi_logo.png" className="img-responsive" alt=""/>
+                <img src="img/portfolio/mg_stover_logo.jpg" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
                     <div className="project-category text-faded">
-                      Category
+                      Operations Manager
                     </div>
                     <div className="project-name">
-                      Project Name
+                      MG Stover & Co
                     </div>
                   </div>
                 </div>
@@ -57,15 +57,15 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/p2bi_logo.png" className="img-responsive" alt=""/>
+                <img src="img/portfolio/duck_duck_deal_logo.png" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
                     <div className="project-category text-faded">
-                      Category
+                      Sales, Marketing and Operations
                     </div>
                     <div className="project-name">
-                      Project Name
+                      DuckDuck Deal
                     </div>
                   </div>
                 </div>
@@ -74,15 +74,15 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/p2bi_logo.png" className="img-responsive" alt=""/>
+                <img src="img/portfolio/lijit_logo.png" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
                     <div className="project-category text-faded">
-                      Category
+                      Sales Intern
                     </div>
                     <div className="project-name">
-                      Project Name
+                      Lijit (now SOVRN)
                     </div>
                   </div>
                 </div>
@@ -91,15 +91,15 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/p2bi_logo.png" className="img-responsive" alt=""/>
+                <img src="img/portfolio/roger_cpa_review.jpg" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
                     <div className="project-category text-faded">
-                      Category
+                      Student Representative
                     </div>
                     <div className="project-name">
-                      Project Name
+                      Roger CPA Review
                     </div>
                   </div>
                 </div>
