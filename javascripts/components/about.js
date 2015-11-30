@@ -3,7 +3,7 @@ var about = React.createClass({
     return (
       <div className="container">
         <div className="row">
-          <div className="col-lg-8 col-lg-offset-2 text-center">
+          <div className="col-lg-8 col-lg-offset-2 text-left">
             <h2 className="section-heading">About Me</h2>
             <hr className="light"/>
             <p className="text-faded">
