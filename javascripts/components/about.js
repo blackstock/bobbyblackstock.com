@@ -6,7 +6,7 @@ var about = React.createClass({
           <div className="col-lg-8 col-lg-offset-2 text-center">
             <h2 className="section-heading">About Me</h2>
             <hr className="light"/>
-            <p className="text-faded text-left">
+            <p className="text-faded">
               I studied accounting and finance at the University of Colorado, but I was always drawn to the
               technology scene. After graduating, I went to work for a Denver-based CPA firm, where I worked primarily
               with
