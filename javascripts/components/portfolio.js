@@ -23,7 +23,7 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/github_logo.png" className="img-responsive" alt=""/>
+                <img src="img/portfolio/github_logo.jpg" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
@@ -91,15 +91,15 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/roger_cpa_review.jpg" className="img-responsive" alt=""/>
+                <img src="img/portfolio/axa_logo.jpg" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
                     <div className="project-category text-faded">
-                      Student Representative
+                      Finance Intern
                     </div>
                     <div className="project-name">
-                      Roger CPA Review
+                      AXA Finance
                     </div>
                   </div>
                 </div>
