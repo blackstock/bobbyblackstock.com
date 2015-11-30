@@ -5,7 +5,7 @@ var header = React.createClass({
         <div className="header-content-inner">
           <h1>Bobby Blackstock</h1>
           <hr/>
-          <p>Hello and welcome! My name is Bobby and I'm a software developer, Certified Public Accountant (CPA), soon-to-be father, and
+          <p>Hello and welcome! My name is Bobby and I'm a software developer, Certified Public Accountant (CPA) and
             a self-proclaimed entrepreneur.</p>
           <a href="#about" className="btn btn-primary btn-xl page-scroll">About Me</a>
         </div>
