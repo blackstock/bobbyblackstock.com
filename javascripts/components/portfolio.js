@@ -6,7 +6,7 @@ var portfolio = React.createClass({
           <div className="row no-gutter">
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/p2bi_logo.png" className="img-responsive" alt=""/>
+                <img src="img/portfolio/p2bi.png" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
@@ -23,7 +23,7 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/github_logo.jpg" className="img-responsive" alt=""/>
+                <img src="img/portfolio/github.png" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
@@ -40,7 +40,7 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/mg_stover_logo.jpg" className="img-responsive" alt=""/>
+                <img src="img/portfolio/mg_stover.png" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
@@ -48,7 +48,7 @@ var portfolio = React.createClass({
                       Operations Manager
                     </div>
                     <div className="project-name">
-                      MG Stover and Company
+                      MG Stover & Company
                     </div>
                   </div>
                 </div>
@@ -57,7 +57,7 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/duck_duck_deal_image.jpg" className="img-responsive" alt=""/>
+                <img src="img/portfolio/duckduck_deal.png" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
@@ -74,7 +74,7 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/lijit_logo.png" className="img-responsive" alt=""/>
+                <img src="img/portfolio/lijit.png" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
@@ -91,7 +91,7 @@ var portfolio = React.createClass({
 
             <div className="col-lg-4 col-sm-6">
               <a href="#" className="portfolio-box">
-                <img src="img/portfolio/axa_logo.jpg" className="img-responsive" alt=""/>
+                <img src="img/portfolio/axa.png" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">
                   <div className="portfolio-box-caption-content">
