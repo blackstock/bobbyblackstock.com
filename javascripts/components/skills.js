@@ -43,14 +43,6 @@ var services = React.createClass({
           </div>
 
           <div className="row">
-            <div className="col-lg-12 text-center">
-              <h2 className="section-heading">Skills</h2>
-              <hr className="primary"/>
-            </div>
-          </div>
-        </div>
-        <div className="container">
-          <div className="row">
             <div className="col-lg-3 col-md-6 text-center">
               <div className="service-box">
                 <i className="fa fa-4x fa-diamond wow bounceIn text-primary"></i>
@@ -88,5 +80,5 @@ var services = React.createClass({
 
 ReactDOM.render(
   React.createElement(services),
-  document.getElementById('services')
+  document.getElementById('skills')
 );
