@@ -1,4 +1,4 @@
-var services = React.createClass({
+var skills = React.createClass({
   render: function() {
     return (
       <div>
@@ -79,6 +79,6 @@ var services = React.createClass({
 });
 
 ReactDOM.render(
-  React.createElement(services),
+  React.createElement(skills),
   document.getElementById('skills')
 );

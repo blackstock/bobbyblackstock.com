@@ -1,4 +1,4 @@
-var portfolio = React.createClass({
+var resume = React.createClass({
   render: function() {
     return (
       <div>
@@ -142,6 +142,6 @@ var portfolio = React.createClass({
 });
 
 ReactDOM.render(
-  React.createElement(portfolio),
-  document.getElementById('portfolio')
+  React.createElement(resume),
+  document.getElementById('resume')
 );
