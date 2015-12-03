@@ -85,7 +85,9 @@ var portfolio = React.createClass({
                       Lijit (now SOVRN)
                     </div>
                     <p>
-                      testing paragraph...
+                      During my time at Lijit, I focused primarily on targeting new clients and finding new sales verticals.
+                      After I left, the company was acquired by Federated Media and has subsequently spun-off into
+                      SOVRN. Click to learn more.
                     </p>
                   </div>
                 </div>
