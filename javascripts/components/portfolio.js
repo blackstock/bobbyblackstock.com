@@ -73,7 +73,7 @@ var portfolio = React.createClass({
             </div>
 
             <div className="col-lg-4 col-sm-6">
-              <a href="#" className="portfolio-box">
+              <a href="http://www.sovrn.com/" className="portfolio-box" target="_blank">
                 <img src="img/portfolio/lijit.png" className="img-responsive" alt=""/>
 
                 <div className="portfolio-box-caption">

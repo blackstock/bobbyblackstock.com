@@ -13,7 +13,7 @@ var contact = React.createClass({
             <div className="col-lg-4 col-lg-offset-2 text-center">
               <i className="fa fa-phone fa-3x wow bounceIn"></i>
 
-              <p>(303)-981-2822</p>
+              <p>(303)981-2822</p>
             </div>
             <div className="col-lg-4 text-center">
               <i className="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
