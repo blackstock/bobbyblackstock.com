@@ -8,17 +8,22 @@ var contact = React.createClass({
               <h2 className="section-heading">Contact Me</h2>
               <hr className="primary"/>
               <p>Want to talk tech? Looking for some consulting or some part-time software
-              development? Please don't hesitate to contact me. Thanks!</p>
+                development? Please don't hesitate to contact me. Thanks!</p>
             </div>
             <div className="col-lg-4 col-lg-offset-2 text-center">
-              <i className="fa fa-phone fa-3x wow bounceIn"></i>
-
-              <p>(303)981-2822</p>
+              <a href="https://www.facebook.com/bobby.blackstock" target="_blank">
+                <i className="fa fa-facebook-official fa-3x wow bounceIn"></i>
+              </a>
             </div>
-            <div className="col-lg-4 text-center">
-              <i className="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-
-              <p><a href="mailto:your-email@your-domain.com">bobbyblackstock@gmail.com</a></p>
+            <div className="col-lg-4 col-lg-offset-2 text-center">
+              <a href="https://twitter.com/bobbyblackstock" target="_blank">
+                <i className="fa fa-twitter-square fa-3x wow bounceIn"></i>
+              </a>
+            </div>
+            <div className="col-lg-4 col-lg-offset-2 text-center">
+              <a href="https://www.linkedin.com/in/bobbyblackstock" target="_blank">
+                <i className="fa fa-linkedin-square fa-3x wow bounceIn"></i>
+              </a>
             </div>
           </div>
         </div>
