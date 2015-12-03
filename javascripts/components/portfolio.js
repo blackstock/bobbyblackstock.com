@@ -84,6 +84,9 @@ var portfolio = React.createClass({
                     <div className="project-name">
                       Lijit (now SOVRN)
                     </div>
+                    <p>
+                      testing paragraph...
+                    </p>
                   </div>
                 </div>
               </a>
