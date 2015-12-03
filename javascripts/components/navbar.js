@@ -18,7 +18,7 @@ var navBar = React.createClass({
               <a className="page-scroll" href="#about">About</a>
             </li>
             <li>
-              <a className="page-scroll" href="#services">Skills</a>
+              <a className="page-scroll" href="#skills">Skills</a>
             </li>
             <li>
               <a className="page-scroll" href="#resume">Resume</a>
