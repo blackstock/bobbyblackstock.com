@@ -23,14 +23,14 @@ var skills = React.createClass({
               <div className="service-box">
                 <i className="fa fa-4x fa-html5 wow bounceIn text-primary" data-wow-delay=".1s"></i>
 
-                <h3>HTML/CSS</h3>
+                <h3>HTML / CSS</h3>
               </div>
             </div>
             <div className="col-lg-3 col-md-6 text-center">
               <div className="service-box">
                 <i className="fa fa-4x fa-newspaper-o wow bounceIn text-primary" data-wow-delay=".2s"></i>
 
-                <h3>JavaScript</h3>
+                <h3>JavaScript / React</h3>
               </div>
             </div>
             <div className="col-lg-3 col-md-6 text-center">
@@ -68,7 +68,7 @@ var skills = React.createClass({
               <div className="service-box">
                 <i className="fa fa-4x fa-area-chart wow bounceIn text-primary"></i>
 
-                <h3>CPA / Finance</h3>
+                <h3>Accounting / Finance</h3>
               </div>
             </div>
           </div>
