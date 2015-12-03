@@ -45,30 +45,30 @@ var skills = React.createClass({
           <div className="row">
             <div className="col-lg-3 col-md-6 text-center">
               <div className="service-box">
-                <i className="fa fa-4x fa-diamond wow bounceIn text-primary"></i>
+                <i className="fa fa-4x fa-bug wow bounceIn text-primary"></i>
 
-                <h3>Ruby on Rails</h3>
+                <h3>Test Driven Development</h3>
               </div>
             </div>
             <div className="col-lg-3 col-md-6 text-center">
               <div className="service-box">
-                <i className="fa fa-4x fa-html5 wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                <i className="fa fa-4x fa-bolt wow bounceIn text-primary" data-wow-delay=".1s"></i>
 
-                <h3>HTML/CSS</h3>
+                <h3>Agile Methodology</h3>
               </div>
             </div>
             <div className="col-lg-3 col-md-6 text-center">
               <div className="service-box">
-                <i className="fa fa-4x fa-newspaper-o wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                <i className="fa fa-4x fa-github wow bounceIn text-primary" data-wow-delay=".2s"></i>
 
-                <h3>JavaScript</h3>
+                <h3>git / GitHub</h3>
               </div>
             </div>
             <div className="col-lg-3 col-md-6 text-center">
               <div className="service-box">
-                <i className="fa fa-4x fa-server wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                <i className="fa fa-4x fa-area-chart wow bounceIn text-primary"></i>
 
-                <h3>SQL Databases</h3>
+                <h3>CPA / Finance</h3>
               </div>
             </div>
           </div>
