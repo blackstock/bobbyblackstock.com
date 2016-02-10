@@ -7,23 +7,17 @@ var about = React.createClass({
             <h2 className="section-heading">About Me</h2>
             <hr className="light"/>
             <p className="text-faded">
-              I studied accounting and finance at the University of Colorado at Boulder, but I was always more drawn to
-              the
-              computer sciences and the start-up, technology scene. Unfortunately, my degree didn't help land me any
-              jobs
-              in the technology space after I graduated... Instead, I went to work for a Denver-based CPA firm,
-              where I worked primarily with Hedge Funds, Private Equity Funds and Family Offices providing a variety of
-              accounting services.
+              I studied accounting and finance at the University of Colorado at Boulder, however, I was always more drawn to
+              computer science, new techonologies, and the local start-up scene. Unfortunately, with my degree I
+              had a difficult time finding a job in the tech industry, so instead I went to work for a
+              Denver-based CPA firm,  where I worked primarily with Hedge Funds, Private Equity Funds and
+              Family Offices providing a variety of accounting services.
             </p>
 
             <p className="text-faded">
-              While working full-time as a CPA, I was actively trying to find a way into the tech world.
-              I tried creating a few iPhone app businesses in my spare time, but the reality was starting to set in:
-              I didn't have the required skill-set make it in the tech world.
               After several years at the CPA firm, I finally decided to pursue my passion... So, I quit my job and
-              entered
-              a 6-month Full-Stack Web Development program (the program was called gSchool through Galvanize in Denver,
-              CO).
+              entered a 6-month Full-Stack Web Development program (the program was called gSchool through
+              Galvanize in Denver, CO).
             </p>
 
             <p className="text-faded">
