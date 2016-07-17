@@ -387,7 +387,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
     border-color: rgb(52, 110, 164);
     color: #fff;
-    background-color: rgb(52, 110, 164);
+    background-color: rgb(83, 102, 119);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
