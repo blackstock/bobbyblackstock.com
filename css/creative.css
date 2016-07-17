@@ -52,12 +52,12 @@ p {
 }
 
 .bg-primary {
-    background-color: rgb(83, 102, 119);
+    background-color: rgb(49, 76, 101);
 }
 
 .bg-dark {
     color: #fff;
-    background-color: rgb(83, 102, 119);
+    background-color: rgb(49, 76, 101);
 }
 
 .text-faded {
