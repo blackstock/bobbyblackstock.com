@@ -15,3 +15,12 @@ h6 {
   -webkit-animation: typing 8s steps(23, end),
   blink-caret .5s step-end infinite alternate;
 }
+
+.unselectable {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
