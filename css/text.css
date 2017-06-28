@@ -9,9 +9,9 @@ h6 {
   color: black;
   border-right: .1em solid black;
   width: calc(0.55em * 14);
-  width: 24ch;
+  width: 23ch;
   white-space: nowrap;
   overflow: hidden;
-  -webkit-animation: typing 8s steps(24, end),
+  -webkit-animation: typing 8s steps(23, end),
   blink-caret .5s step-end infinite alternate;
 }
