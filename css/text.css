@@ -5,8 +5,8 @@ h6 {
   position:absolute;
   bottom:0;
   right:0;
-  font: bold 1.6em monospace;
-  color: black;
+  font: bold 1em monospace;
+  color: #6c6c6c;
   border-right: .1em solid black;
   width: calc(0.55em * 14);
   width: 23ch;
