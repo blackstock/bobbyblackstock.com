@@ -1,10 +1,14 @@
 @-webkit-keyframes typing { from { width: 0; } }
 @-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
 
-h6 {
-  position:absolute;
-  bottom:0;
-  right:0;
+footer {
+  height: 25px;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+}
+
+#lost {
   font: bold 1em monospace;
   color: #6c6c6c;
   border-right: .1em solid black;
