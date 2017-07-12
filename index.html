@@ -15,29 +15,27 @@
     src="https://code.jquery.com/jquery-3.2.1.min.js"
     integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
     crossorigin="anonymous"></script>
-
   <!-- Text JS -->
   <script src="javascripts/text.js"></script>
-
   <!-- Bootstrap Core CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
-
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/ico" href="./img/favicon.ico"/>
-
   <!-- Font Awesome -->
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
-        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        rel="stylesheet"
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+        crossorigin="anonymous">
   <!-- Custom CSS -->
   <link rel="stylesheet" href="css/creative.css" type="text/css">
-
   <!-- Cube CSS -->
   <link rel="stylesheet" href="css/cube.css" type="text/css">
   <!-- Text CSS -->
   <link rel="stylesheet" href="css/text.css" type="text/css">
+  <!-- The Office CSS -->
+  <link rel="stylesheet" href="css/the_office.css" type="text/css">
 </head>
-<body id="hide">
+<body id="quoteButton">
 <header id="header">
   <div class="header-content">
     <div class="header-content-inner">
@@ -90,14 +88,16 @@
         </div>
       </div>
     </div>
-    <p class="unselectable" style="margin-top: 50px; color: #646464">[click and drag cursor to move]</p>
+    <h6 class="unselectable" style="margin-top: 50px; color: #646464">[click and drag cursor to move]</h6>
+  </div>
+  <div class="unselectable" id="quoteContainer">
+    <p></p>
+    <p id="quoteGenius"></p>
   </div>
 </header>
-<footer>
-  <h6 id="lost" class="unselectable">4, 8, 15, 16, 23, 42...</h6>
-</footer>
-<!-- Props to Jordan Leigh for the awesome cube off codepen.io!! -->
-<!-- Cube JavaScript -->
+<!-- Cube JavaScript Props to Jordan Leigh for cube off CodePen.io -->
 <script src="javascripts/cube.js"></script>
+<!-- Cube TheOffice Quote JS -->
+<script src="javascripts/the_office.js"></script>
 </body>
 </html>

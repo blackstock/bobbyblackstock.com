@@ -1,0 +1,25 @@
+#quoteContainer {
+  text-align: center;
+  color: dimgray;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+}
+
+#quoteGenius {
+  font-style: italic;
+  text-align: center;
+  font-size: 12px;
+}
+
+@media screen and (max-width: 640px) {
+  #quoteContainer {
+    margin-bottom: 100px;
+  }
+}
+
+@media screen and (max-width: 1004px) {
+  #quoteContainer {
+    margin-bottom: 70px;
+  }
+}
