@@ -85,8 +85,6 @@ $(document).ready(function() {
     var quote = $('#quoteContainer p').text();
     var quoteGenius = $('#quoteGenius').text();
 
-    e.preventDefault();
-
     var sourceLength = quoteSource.length;
     var randomNumber = Math.floor(Math.random() * sourceLength);
 
