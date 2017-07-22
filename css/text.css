@@ -1,5 +1,14 @@
-@-webkit-keyframes typing { from { width: 0; } }
-@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+@-webkit-keyframes typing {
+  from {
+    width: 0;
+  }
+}
+
+@-webkit-keyframes blink-caret {
+  50% {
+    border-color: transparent;
+  }
+}
 
 .unselectable {
   -webkit-touch-callout: none;
@@ -8,4 +17,8 @@
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+
+body {
+  cursor: -webkit-grab;
 }
