@@ -39,7 +39,7 @@ $(document).ready(function() {
     quote: "Well, happy birthday, Jesus. Sorry your party's so lame.",
     name: "Michael Scott"
   }, {
-    quote: "Saw Inception. Or at least I dreamt I did ¯\\_(ツ)_/¯",
+    quote: "Saw Inception. Or at least I dreamt I did.",
     name: "Michael Scott"
   }, {
     quote: "Do you think that smoking drugs is cool? Do you think that doing alcohol is cool?",
