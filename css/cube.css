@@ -82,7 +82,6 @@ html {
     line-height: 200px;
     font-size: 80px;
     text-align: center;
-    color: #1b9bd8;
     -webkit-transition: color 600ms;
     -moz-transition: color 600ms;
     -ms-transition: color 600ms;
@@ -90,8 +89,9 @@ html {
     transition: color 600ms;
 }
 
-.cube > div > div.cube-image.active {
-    color: red;
+.cube > div > div.cube-image > a > img {
+  max-height: 50%;
+  max-width: 50%
 }
 
 .cube > div:hover {
@@ -154,14 +154,6 @@ html {
     -o-transform: rotateX(-90deg) rotate(180deg) translateZ(100px);
     transform: rotateX(-90deg) rotate(180deg) translateZ(100px);
     outline: 1px solid transparent;
-}
-
-object {
-    opacity: 0.5;
-}
-
-object:hover {
-    opacity: 1;
 }
 
 @media (max-width: 640px) {
