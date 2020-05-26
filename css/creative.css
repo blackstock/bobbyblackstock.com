@@ -49,15 +49,6 @@ p {
   line-height: 1.5;
 }
 
-.bg-primary {
-  background-color: rgb(49, 76, 101);
-}
-
-.bg-dark {
-  color: #fff;
-  background-color: rgb(49, 76, 101);
-}
-
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
 }
