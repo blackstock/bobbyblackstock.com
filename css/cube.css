@@ -22,11 +22,11 @@ html {
     -ms-perspective: 1000px;
     -o-perspective: 1000px;
     perspective: 1000px;
-    -webkit-perspective-origin: 50% 200px;
-    -moz-perspective-origin: 50% 200px;
-    -ms-perspective-origin: 50% 200px;
-    -o-perspective-origin: 50% 200px;
-    perspective-origin: 50% 200px;
+    -webkit-perspective-origin: 50% 250px;
+    -moz-perspective-origin: 50% 250px;
+    -ms-perspective-origin: 50% 250px;
+    -o-perspective-origin: 50% 250px;
+    perspective-origin: 50% 250px;
     -webkit-transform: scale(0.8, 0.8);
     -moz-transform: scale(0.8, 0.8);
     -ms-transform: scale(0.8, 0.8);
