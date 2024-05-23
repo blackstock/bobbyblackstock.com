@@ -17,16 +17,16 @@ html {
 }
 
 .viewport {
-    -webkit-perspective: 1000px;
-    -moz-perspective: 1000px;
-    -ms-perspective: 1000px;
-    -o-perspective: 1000px;
-    perspective: 1000px;
-    -webkit-perspective-origin: 50% 250px;
-    -moz-perspective-origin: 50% 250px;
-    -ms-perspective-origin: 50% 250px;
-    -o-perspective-origin: 50% 250px;
-    perspective-origin: 50% 250px;
+    -webkit-perspective: 800px;
+    -moz-perspective: 800px;
+    -ms-perspective: 800px;
+    -o-perspective: 800px;
+    perspective: 800px;
+    -webkit-perspective-origin: 50% 200px;
+    -moz-perspective-origin: 50% 200px;
+    -ms-perspective-origin: 50% 200px;
+    -o-perspective-origin: 50% 200px;
+    perspective-origin: 50% 200px;
     -webkit-transform: scale(0.8, 0.8);
     -moz-transform: scale(0.8, 0.8);
     -ms-transform: scale(0.8, 0.8);
@@ -38,8 +38,8 @@ html {
 .cube {
     position: relative;
     margin: 0 auto;
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
     -ms-transform-style: preserve-3d;
@@ -56,8 +56,8 @@ html {
     overflow: hidden;
     position: absolute;
     opacity: 0.8;
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
     background-image: url(../img/cube-2.png);
     -webkit-touch-callout: none;
     -moz-touch-callout: none;
@@ -72,14 +72,14 @@ html {
 }
 
 .cube > div > div.cube-image {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     -webkit-transform: rotate(180deg);
     -moz-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     -o-transform: rotate(180deg);
     transform: rotate(180deg);
-    line-height: 250px;
+    line-height: 200px;
     font-size: 80px;
     text-align: center;
     -webkit-transition: color 600ms;
